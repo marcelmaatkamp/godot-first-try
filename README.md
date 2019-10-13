@@ -1,1 +1,1 @@
-# godot-first-try
+# godot: first-try
